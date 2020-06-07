@@ -7,4 +7,4 @@ Descargar Zip The leyend of HaXiS V1.0 https://we.tl/t-CJvmnETalI
 <br>
 Descargar Zip The leyend of HaXiS V1.1 https://we.tl/t-XOllogiHWM
 <br>
-Descargar Zip The leyend of HaXiS V1.2
+Descargar Zip The leyend of HaXiS V1.2 https://we.tl/t-hq9wyg17jG
