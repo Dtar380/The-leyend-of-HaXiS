@@ -3,9 +3,9 @@ Este es mi primer videojuego.Es un videojuego RPG hecho en RPG Maker MV basado e
 <br>
 Espero que lo disfruteis.
 
-Descargar Zip The leyend of HaXiS 1.5: http://www.mediafire.com/file/nhvx61lanv9j3h8/The_leyend_of_HaXiS_V1.5.zip/file
+Descargar Zip The leyend of HaXiS 1.6: http://www.mediafire.com/file/66jb538jxmqb5t2/The+leyend+of+HaXiS_V1.6.zip/file
 <br>
-Descargar Zip Pack completo: actualmente indisponible.
+Descargar Zip Pack completo: http://www.mediafire.com/file/ux3zq6p5qk663if/The+leyend+of+HaXiS.zip/file
 <br>
 Se ha creado un parche 1.6 por necesidad de arreglar algunos bugs el sistema de daño y otras cosas que saldran cuando se publique este parche 1.6
 
